@@ -1,1 +1,1 @@
-# example_Java_ANT_IVY_Jenkins_SpringBoot
+# example_Java_Maven_SpringBoot
